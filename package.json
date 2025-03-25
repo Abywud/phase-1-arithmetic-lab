@@ -19,5 +19,17 @@
   },
   "dependencies": {
     "sinon": "^7.2.5"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abywud/phase-1-arithmetic-lab.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Abywud/phase-1-arithmetic-lab/issues"
+  },
+  "homepage": "https://github.com/Abywud/phase-1-arithmetic-lab#readme"
 }
